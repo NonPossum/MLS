@@ -1,2 +1,2 @@
 # My Little Spyware
-Spy useing public available service to post data
+Spy using publicly available service to post data
